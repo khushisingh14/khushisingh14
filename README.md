@@ -1,5 +1,5 @@
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20Guys!&fontColor=000000&rotate=0&descAlign=50&desc=It's%20me,%20Khushi!&fontAlign=51&descAlignY=68">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20Guys!&fontColor=ffffff&rotate=0&descAlign=50&desc=It's%20me,%20Khushi!&fontAlign=51&descAlignY=68">
 </p>
 ## Hi there 👋
 
