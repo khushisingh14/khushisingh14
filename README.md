@@ -35,6 +35,7 @@
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/arduino/original.svg"></img>
 </p>
 </br>
 
