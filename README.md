@@ -1,7 +1,44 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20Guys!&fontColor=ffffff&rotate=0&descAlign=50&desc=It's%20me,%20Khushi!&fontAlign=51&descAlignY=68">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hey%20Guys!&textBg=false&fontColor=ffffff&desc=It's%20me,%20Khushi!&descAlignY=73">
 </p>
-## Hi there 👋
+<h3 align="center"> Let's Connect </h3>
+<p align="center">
+   <a href="mailto:singhkhushi1411@gmail.com" style="text-decoration:none; outline:none; box-shadow:none;">
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3acd53c8-88f8-4666-9faf-8756f050e76d" style="margin-right: 5px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/khushisingh1403" target="_blank" style="text-decoration:none; outline:none; box-shadow:none;">
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f6a8ea57-6970-4078-b9fc-6f561b43c51a" style="margin-right: 5px;" />
+  </a>
+
+</p>
+
+## About Me
+
+- 🎓 B.Tech CSE student  
+- 🔐 Cybersecurity enthusiast & CTF player  
+- 🧠 Curious about systems, networks, and security  
+- 🚀 Always learning, always building
+
+## 🛠️ Tools & Technologies
+
+<p>
+   <img width="48" height="48" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
+</p>
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=khushisingh14"/>
+</p>
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushisingh14)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **khushisingh14/khushisingh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
