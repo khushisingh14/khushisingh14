@@ -12,6 +12,7 @@
   </a>
 
 </p>
+</br>
 
 ## About Me
 
@@ -19,6 +20,8 @@
 - 🔐 Cybersecurity enthusiast & CTF player  
 - 🧠 Curious about systems, networks, and security  
 - 🚀 Always learning, always building
+
+</br>
 
 ## 🛠️ Tools & Technologies
 
@@ -33,11 +36,17 @@
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
 </p>
+</br>
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khushisingh14"/>
-</p>
+## 🌱 Currently Working Towards
+
+- Becoming a Software Developer with strong fundamentals
+- Data Structures & Algorithms
+- Core programming concepts and problem-solving
+- Understanding systems, networks, and secure software design
+
+
+
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushisingh14)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
