@@ -12,8 +12,7 @@
   </a>
 
 </p>
-</br>
-
+<br />
 ## About Me
 
 - 🎓 B.Tech CSE student  
@@ -37,7 +36,7 @@
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/arduino/original.svg"></img>
 </p>
-</br>
+<br />
 
 ## 🌱 Currently Working Towards
 
