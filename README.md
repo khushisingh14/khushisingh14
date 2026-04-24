@@ -24,7 +24,7 @@
 
 ## 🛠️ Tools & Technologies
 
-<p style="display: flex; gap: 10px; flex-wrap: wrap;>
+<p style="display: flex; gap: 10px; flex-wrap: nowrap;">
    <img width="48" height="48" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/cplusplus/original.svg">
   <img width="48" height="48" src="https://devicon-website.vercel.app/api/java/original.svg">
@@ -44,22 +44,3 @@
 - Data Structures & Algorithms
 - Core programming concepts and problem-solving
 - Understanding systems, networks, and secure software design
-
-
-
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushisingh14)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--
-**khushisingh14/khushisingh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
