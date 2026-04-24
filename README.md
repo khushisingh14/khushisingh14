@@ -24,17 +24,17 @@
 
 ## 🛠️ Tools & Technologies
 
-<p>
-   <img width="48" height="48" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/cplusplus/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
-  <img width="48" height="48" src="https://devicon-website.vercel.app/api/arduino/original.svg"></img>
+<p style="display: flex; gap: 10px; flex-wrap: wrap;>
+   <img width="48" height="48" src="https://devicon-website.vercel.app/api/c/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/cplusplus/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/java/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/python/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/linux/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/git/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/mysql/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/vscode/original.svg">
+  <img width="48" height="48" src="https://devicon-website.vercel.app/api/arduino/original.svg">
 </p>
 <br />
 
